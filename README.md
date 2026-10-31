@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.gif" alt="badlinuxuser: pixel art, rainy window" width="828">
-</p>
-
 <h1 align="center">Badlinuxuser - bad progger</h1>
 
 <p align="center">
